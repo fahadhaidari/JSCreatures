@@ -9,9 +9,9 @@ canvas {
 
 #help {
   position: fixed;
-  color: #DDDDDD;
   text-align: center;
   user-select: none;
+  color: #DDDDDD;
   font-size: 12px;
   bottom: 1%;
 }
